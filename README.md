@@ -47,7 +47,7 @@ Make sure you have the following installed:
    git clone https://github.com/your-username/online-clipboard.git
    cd online-clipboard
 
-   ## Set Up the Backend
+## Set Up the Backend
 
 1. **Navigate to the `backend` Directory**
    ```bash
