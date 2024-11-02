@@ -28,7 +28,7 @@ The project is divided into two main directories:
 │   └── package.json
 │
 └── README.md  
-```bash      
+```      
 # Project documentation
 ## Getting Started
 
