@@ -27,7 +27,9 @@ The project is divided into two main directories:
 │   ├── server.js    # Main server file
 │   └── package.json
 │
-└── README.md        # Project documentation
+└── README.md  
+```bash      
+# Project documentation
 ## Getting Started
 
 Follow these steps to get the project up and running on your local machine:
